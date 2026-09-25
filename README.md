@@ -14,11 +14,11 @@ The main objective was to understand how to transform these tables into a proper
 
 ### Before
 
-![Before Data Modelling](screenshots/before-data-modelling.png)
+![Before Data Modelling](screenshots/Before-Data-Modelling.png)
 
 ### After
 
-![After Data Modelling](screenshots/after-data-modelling.png)
+![After Data Modelling](screenshots/After-Data-Modelling.png)
 
 ---
 
